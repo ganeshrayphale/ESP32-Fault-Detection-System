@@ -1,0 +1,5 @@
+Dashboard:
+- Logs monitoring
+- ML prediction
+- Alerts system
+- Reports visualization
