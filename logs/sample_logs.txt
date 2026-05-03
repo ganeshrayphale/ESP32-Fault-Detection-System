@@ -1,0 +1,4 @@
+[INFO] WiFi Connected
+[WARNING] High Temperature
+[ERROR] Sensor Failure
+[INFO] Restarting system
