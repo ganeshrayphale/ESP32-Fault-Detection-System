@@ -1,0 +1,17 @@
+Temperature,WiFi,Sensor,Error_Code,CPU_Load,Battery,Label
+25,1,1,0,30,90,Normal
+28,1,1,0,35,88,Normal
+30,1,1,0,40,85,Normal
+45,1,1,1,55,70,Warning
+50,1,1,1,60,65,Warning
+55,1,1,1,70,60,Warning
+75,1,1,1,80,50,Warning
+85,1,0,2,90,40,Fault
+90,0,0,2,95,30,Fault
+95,0,0,2,98,20,Fault
+88,0,0,2,92,25,Fault
+60,1,1,1,65,55,Warning
+35,1,1,0,45,80,Normal
+32,1,1,0,42,82,Normal
+70,1,1,1,75,48,Warning
+92,0,0,2,96,18,Fault
